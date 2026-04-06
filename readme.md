@@ -79,11 +79,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujit18&show_icons=true&theme=gruvbox&hide=issues" alt="Sujit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujit1817&show_icons=true&theme=gruvbox&hide=issues" alt="Sujit's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sujit18&theme=gruvbox" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sujit1817&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
 <p align="center">
